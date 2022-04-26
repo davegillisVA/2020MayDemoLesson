@@ -1,0 +1,10 @@
+### AH Enterprises all rights reserved ###
+
+    Glad you have chosen to use this Encryption / Decryption
+    microservice, provided by AHE.
+
+    It is an Encryption and Decryption service for users that are authorized to
+    use the system. And it is based on the Vigenere Encryption Methodology.
+
+    If at anytime you have a question on how to use this system, please type "help"
+    at any prompt and you will be directed to some guidance on how to proceed.
